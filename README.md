@@ -11,6 +11,7 @@ Welcome to the "Learn Python Tkinter" guide! This repository is designed to help
   - [Grid Layout](#grid-layout)
   - [Buttons](#buttons)
   - [Entry Widgets](#entry-widgets)
+  - [Simple Calculator](#simple-calculator)
 - [Contributing](#contributing)
 - [License](#license)
 
