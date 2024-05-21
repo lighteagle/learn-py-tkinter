@@ -27,11 +27,11 @@ To use Tkinter, you need to have Python installed on your computer. Tkinter come
 python --version
 ```
 
+If Python is installed, you can start creating your Tkinter applications by importing the library:
+
 ```python
 from tkinter import Tk, Label, Button, Entry
 ```
-
-If Python is installed, you can start creating your Tkinter applications by importing the library:
 
 ## Examples
 
